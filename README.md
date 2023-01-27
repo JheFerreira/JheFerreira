@@ -2,7 +2,7 @@
 ## Olá! Eu sou Jéssica Ferreira
 
 - 🔭 Atualmente, trabalho como Analista de Suporte/Testes manuais.
-- 🌱 Atualmente estou aprendendo Testes automatizados;
+- 🌱 Aprendendo Testes automatizados;
 - 📫 Como chegar até mim: 
 
 <div>
