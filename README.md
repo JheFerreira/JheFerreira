@@ -7,9 +7,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/jesscaferreiraqa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/jessica_kakau/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-</div>
+  </div>
 
 ##
 Um pouquinho do meu dia a dia...
